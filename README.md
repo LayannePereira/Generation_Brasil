@@ -2,12 +2,7 @@
 
 ### <h1 align="center">`<>BootCamp Generation Brasil</>` </h1> 
 
-Desenvolvedor Web Full-Stack Java Junior pelo BootCamp Generation Brasil, onde pude aprimorar habilidades como trabalho em 
-equipe comunicação, persistência e consegui adquirir mais experiencia, utilizando tecnologias e linguagens de programação como: Html, 
-Css, Javascript, Angular, Java, Spring Boot Framework, Sql, criação de Api Rest e com essas tecnologias foram criados dois projetos
-onde consumimos uma API Rest em nuvem. Início em 10/01/2022 e concluído em 13/04/2022.
-
-  #### Tecnologias que utilizo no Back-end:
+#### Tecnologias que utilizo no Back-end:
 ![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=Java&logoColor=007396&)
 ![Spring](https://img.shields.io/badge/-Spring-white?style=flat&logo=Spring&logoColor=6DB33F&)
 ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-white?style=flat&logo=SpringBoot&logoColor=6DB33F&)
@@ -32,3 +27,6 @@ onde consumimos uma API Rest em nuvem. Início em 10/01/2022 e concluído em 13/
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=Git&logoColor=F05032&)
 ![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat&logo=GitHub&logoColor=181717&)
 ##
+  
+  
+
